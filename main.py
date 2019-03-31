@@ -3,7 +3,7 @@ import cv2
 
 #Resize optimization is not fully working
 #Currently works with img2 at factor 2, can't find more instances
-#I don't know if it is an issue of too low of a resolution
+#We don't know if it is an issue of too low of a resolution
 
 # User input
 targetPath = input("Enter the target image: ")
